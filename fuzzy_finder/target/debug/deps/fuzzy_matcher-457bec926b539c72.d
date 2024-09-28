@@ -1,0 +1,10 @@
+/home/arman_tahsin_adib/all_programs/fuzzy_finder/target/debug/deps/libfuzzy_matcher-457bec926b539c72.rmeta: /home/arman_tahsin_adib/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fuzzy-matcher-0.3.7/src/lib.rs /home/arman_tahsin_adib/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fuzzy-matcher-0.3.7/src/clangd.rs /home/arman_tahsin_adib/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fuzzy-matcher-0.3.7/src/skim.rs /home/arman_tahsin_adib/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fuzzy-matcher-0.3.7/src/util.rs
+
+/home/arman_tahsin_adib/all_programs/fuzzy_finder/target/debug/deps/libfuzzy_matcher-457bec926b539c72.rlib: /home/arman_tahsin_adib/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fuzzy-matcher-0.3.7/src/lib.rs /home/arman_tahsin_adib/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fuzzy-matcher-0.3.7/src/clangd.rs /home/arman_tahsin_adib/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fuzzy-matcher-0.3.7/src/skim.rs /home/arman_tahsin_adib/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fuzzy-matcher-0.3.7/src/util.rs
+
+/home/arman_tahsin_adib/all_programs/fuzzy_finder/target/debug/deps/fuzzy_matcher-457bec926b539c72.d: /home/arman_tahsin_adib/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fuzzy-matcher-0.3.7/src/lib.rs /home/arman_tahsin_adib/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fuzzy-matcher-0.3.7/src/clangd.rs /home/arman_tahsin_adib/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fuzzy-matcher-0.3.7/src/skim.rs /home/arman_tahsin_adib/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fuzzy-matcher-0.3.7/src/util.rs
+
+/home/arman_tahsin_adib/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fuzzy-matcher-0.3.7/src/lib.rs:
+/home/arman_tahsin_adib/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fuzzy-matcher-0.3.7/src/clangd.rs:
+/home/arman_tahsin_adib/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fuzzy-matcher-0.3.7/src/skim.rs:
+/home/arman_tahsin_adib/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fuzzy-matcher-0.3.7/src/util.rs:
